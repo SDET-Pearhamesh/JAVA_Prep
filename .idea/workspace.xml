@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f356c7be-e3b8-409a-9dbe-1cb6472e5a44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/NumberBased/CountEvenOddDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/NumberBased/FactorialOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/NumberBased/FibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/NumberBased/OctalConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/NumberBased/PalindromeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/NumberBased/ReverseInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/NumberBased/SwapTwoIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/BasicAlgoAndControlFlow/LargestNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/BasicAlgoAndControlFlow/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/BasicAlgoAndControlFlow/PrimeNumberCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/BasicAlgoAndControlFlow/SumOfDigitsInNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/strings/CharacterIndescendingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/strings/DuplicateWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/strings/NumberOfVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/strings/StringCompression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/strings/StringPangram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,14 +53,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CharacterIndescendingOrder.executor": "Run",
     "Application.CountEvenOddDigits.executor": "Run",
     "Application.CountNumberOfDigits.executor": "Run",
+    "Application.DuplicateWords.executor": "Run",
     "Application.FactorialOfNumber.executor": "Run",
     "Application.FibonacciSeries.executor": "Run",
+    "Application.LargestNumberInArray.executor": "Run",
+    "Application.LeapYear.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.NumberOfVowels.executor": "Run",
     "Application.OctalConversion.executor": "Run",
     "Application.PalindromeNumber.executor": "Run",
+    "Application.PrimeNumberCheck.executor": "Run",
     "Application.ReverseInteger.executor": "Run",
+    "Application.StringCompression.executor": "Run",
+    "Application.StringPangram.executor": "Run",
+    "Application.SumOfDigitsInNumber.executor": "Run",
     "Application.SwapTwoIntegers.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
