@@ -1,4 +1,4 @@
-package main.java.BasicAlgoAndControlFlow;
+package BasicAlgoAndControlFlow;
 
 public class SumOfDigitsInNumber {
 
