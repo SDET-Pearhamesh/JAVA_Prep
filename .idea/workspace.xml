@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f356c7be-e3b8-409a-9dbe-1cb6472e5a44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArraysAndCollection/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArraysAndCollection/DuplicatesInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArraysAndCollection/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArraysAndCollection/SortArrayAndRemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArraysAndCollection/SortNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArraysAndCollection/SumOfAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArrayManipulation/LongestSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArrayManipulation/MoveZerosToRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArrayManipulation/RemoveElementsgreaterThanGiven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArrayManipulation/ReverseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArraysAndCollection/NonrepeatingElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/BasicAlgoAndControlFlow/SumOfDigitsInNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/BasicAlgoAndControlFlow/SumOfDigitsInNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +59,18 @@
     "Application.FibonacciSeries.executor": "Run",
     "Application.LargestNumberInArray.executor": "Run",
     "Application.LeapYear.executor": "Run",
+    "Application.LongestSubsequence.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MissingNumber.executor": "Run",
+    "Application.MoveZerosToRight.executor": "Run",
+    "Application.NonrepeatingElement.executor": "Run",
     "Application.NumberOfVowels.executor": "Run",
     "Application.OctalConversion.executor": "Run",
     "Application.PalindromeNumber.executor": "Run",
     "Application.PrimeNumberCheck.executor": "Run",
+    "Application.RemoveElementsgreaterThanGiven.executor": "Run",
     "Application.ReverseInteger.executor": "Run",
+    "Application.ReverseOrder.executor": "Run",
     "Application.SortArrayAndRemoveDuplicates.executor": "Run",
     "Application.SortNames.executor": "Run",
     "Application.StringCompression.executor": "Run",
