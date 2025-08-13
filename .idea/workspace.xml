@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f356c7be-e3b8-409a-9dbe-1cb6472e5a44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArrayManipulation/LongestSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArrayManipulation/MoveZerosToRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArrayManipulation/RemoveElementsgreaterThanGiven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArrayManipulation/ReverseOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArraysAndCollection/NonrepeatingElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArrayManipulation/InsertionOfTwoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArrayManipulation/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArrayManipulation/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArrayManipulation/NegativeNumbersAtLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArrayManipulation/SecondMaxMinNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,12 +58,16 @@
     "Application.DuplicatesInArray.executor": "Run",
     "Application.FactorialOfNumber.executor": "Run",
     "Application.FibonacciSeries.executor": "Run",
+    "Application.InsertionOfTwoArray.executor": "Run",
     "Application.LargestNumberInArray.executor": "Run",
     "Application.LeapYear.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
     "Application.LongestSubsequence.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MajorityElement.executor": "Run",
     "Application.MissingNumber.executor": "Run",
     "Application.MoveZerosToRight.executor": "Run",
+    "Application.NegativeNumbersAtLeft.executor": "Run",
     "Application.NonrepeatingElement.executor": "Run",
     "Application.NumberOfVowels.executor": "Run",
     "Application.OctalConversion.executor": "Run",
@@ -71,6 +76,7 @@
     "Application.RemoveElementsgreaterThanGiven.executor": "Run",
     "Application.ReverseInteger.executor": "Run",
     "Application.ReverseOrder.executor": "Run",
+    "Application.SecondMaxMinNumber.executor": "Run",
     "Application.SortArrayAndRemoveDuplicates.executor": "Run",
     "Application.SortNames.executor": "Run",
     "Application.StringCompression.executor": "Run",
@@ -82,6 +88,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/prathameshingale/Downloads/Java_Preparation/src/main/java/Geekyants/Main.java",
