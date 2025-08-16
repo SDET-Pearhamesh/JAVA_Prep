@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f356c7be-e3b8-409a-9dbe-1cb6472e5a44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/src/HackerRank/Strings/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/HackerRank/Strings/LexicographicalOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/HackerRank/Strings/PrintToken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/HackerRank/Strings/Regex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/HackerRank/Strings/SentenceToDifferentDataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/strings/Anagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f356c7be-e3b8-409a-9dbe-1cb6472e5a44" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
