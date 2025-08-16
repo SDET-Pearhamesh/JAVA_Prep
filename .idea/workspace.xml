@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f356c7be-e3b8-409a-9dbe-1cb6472e5a44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArrayManipulation/InsertionOfTwoArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArrayManipulation/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArrayManipulation/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArrayManipulation/NegativeNumbersAtLeft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/ArrayManipulation/SecondMaxMinNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/HackerRank/Strings/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/HackerRank/Strings/LexicographicalOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/HackerRank/Strings/PrintToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/HackerRank/Strings/Regex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/HackerRank/Strings/SentenceToDifferentDataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/strings/Anagram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,56 +48,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BubbleSort.executor": "Run",
-    "Application.CharacterIndescendingOrder.executor": "Run",
-    "Application.CountEvenOddDigits.executor": "Run",
-    "Application.CountNumberOfDigits.executor": "Run",
-    "Application.DuplicateWords.executor": "Run",
-    "Application.DuplicatesInArray.executor": "Run",
-    "Application.FactorialOfNumber.executor": "Run",
-    "Application.FibonacciSeries.executor": "Run",
-    "Application.InsertionOfTwoArray.executor": "Run",
-    "Application.LargestNumberInArray.executor": "Run",
-    "Application.LeapYear.executor": "Run",
-    "Application.LinearSearch.executor": "Run",
-    "Application.LongestSubsequence.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MajorityElement.executor": "Run",
-    "Application.MissingNumber.executor": "Run",
-    "Application.MoveZerosToRight.executor": "Run",
-    "Application.NegativeNumbersAtLeft.executor": "Run",
-    "Application.NonrepeatingElement.executor": "Run",
-    "Application.NumberOfVowels.executor": "Run",
-    "Application.OctalConversion.executor": "Run",
-    "Application.PalindromeNumber.executor": "Run",
-    "Application.PrimeNumberCheck.executor": "Run",
-    "Application.RemoveElementsgreaterThanGiven.executor": "Run",
-    "Application.ReverseInteger.executor": "Run",
-    "Application.ReverseOrder.executor": "Run",
-    "Application.SecondMaxMinNumber.executor": "Run",
-    "Application.SortArrayAndRemoveDuplicates.executor": "Run",
-    "Application.SortNames.executor": "Run",
-    "Application.StringCompression.executor": "Run",
-    "Application.StringPangram.executor": "Run",
-    "Application.SumOfAll.executor": "Run",
-    "Application.SumOfDigitsInNumber.executor": "Run",
-    "Application.SwapTwoIntegers.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/prathameshingale/Downloads/Java_Preparation/src/main/java/Geekyants/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Anagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharacterIndescendingOrder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountEvenOddDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountNumberOfDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicateWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactorialOfNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonacciSeries.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestNumberInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LexicographicalOrder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOfVowels.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OctalConversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumberCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintToken.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SentenceToDifferentDataTypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringCompression.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringPangram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfDigitsInNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwapTwoIntegers.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/prathameshingale/Downloads/Java_Preparation/src/main/java/Geekyants/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.CountNumberOfDigits">
     <configuration name="CountNumberOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumberBased.CountNumberOfDigits" />
       <module name="Java_Preparation" />
@@ -111,12 +98,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LexicographicalOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRank.Strings.LexicographicalOrder" />
+      <module name="Java_Preparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HackerRank.Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LexicographicalOrder" />
         <item itemvalue="Application.CountNumberOfDigits" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f356c7be-e3b8-409a-9dbe-1cb6472e5a44" name="Changes" comment="" />
